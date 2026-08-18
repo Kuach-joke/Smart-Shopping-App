@@ -1,0 +1,10 @@
+{
+  "description": "Scan barcodes to track grocery prices, create shopping lists, and find the best deals for efficient and budget-friendly grocery shopping.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
