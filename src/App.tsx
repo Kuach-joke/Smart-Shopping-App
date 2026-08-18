@@ -2,6 +2,7 @@ import { useState, useRef, useEffect } from 'react'
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
+// This is a new commit
 interface GroceryItem {
   id: string; name: string; brand: string; category: string
   quantity: number; unit: string; price: number; checked: boolean
